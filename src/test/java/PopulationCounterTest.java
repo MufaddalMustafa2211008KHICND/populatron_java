@@ -36,4 +36,9 @@ public class PopulationCounterTest {
         // Teardown
         System.setOut(old);
     }
+
+    @Test
+    public void readerReadsTheFile() {
+        
+    }
 }
